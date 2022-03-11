@@ -1,0 +1,23 @@
+{
+  "name": "javascript-api-previsao-tempo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Elff26/MOBILE-JavaScript-Execucoes-Assincronas-e-Sincronas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elff26/MOBILE-JavaScript-Execucoes-Assincronas-e-Sincronas/issues"
+  },
+  "homepage": "https://github.com/Elff26/MOBILE-JavaScript-Execucoes-Assincronas-e-Sincronas#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
